@@ -12,7 +12,8 @@ For supply chain–driven organisations, service level performance directly affe
 This analysis aims to identify key gaps in service performance, highlight customers or order types most impacted, and provide actionable insights to improve delivery reliability and overall service levels.
 
 ## Methodology:
-1. 
+1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) in PostgreSQL.
+2. 
 
 ## Skills:
 - 
