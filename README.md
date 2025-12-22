@@ -9,7 +9,7 @@ Base on these findings, I recommend targeted product manufacturing schedules and
 ## Business Problem:
 For supply chain–driven organisations, service level performance directly affects customer satisfaction, retention, and contractual compliance. In this organisation, management observed recurring complaints from customers and inconsistent service level outcomes but lacked clear visibility into where and why performance was falling short. The objective was to analyse supply chain service level data by tracking On-Time (OT), In-Full (IF), and On-Time-In-Full (OTIF) deliveries against agreed targets, alongside Line Fill Rate and Volume Fill Rate across multiple customers.
 
-This analysis aims to identify key gaps in service performance, highlight customers or order types most impacted, and provide actionable insights to improve delivery reliability and overall service levels.
+This analysis aimed to identify key gaps in service performance, highlight customers or order types most impacted, and provide actionable insights to improve delivery reliability and overall service levels.
 
 ## Methodology:
 1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) using PostgreSQL.
