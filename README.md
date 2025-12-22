@@ -20,7 +20,8 @@ This analysis aims to identify key gaps in service performance, highlight custom
 6. Furthermore, another VIEW, "fact_orders_aggregate_view" is created from "fact_order_lines_view" to aggregate orders base on "order_id" and "customer_id" with the "order_placement_date" as an aedded feature to relate to the date (calendar) table. This view groups many order lines into a single entity. If one of the order lines is not fulfilled, the result is 0, while 1 means all line items are delivered. On-time is 1 only when all line items are delivered on time, otherwise, 0. In-full is 1 only when all line items are delivered in full, otherwise, 0. On-time-in-full is 1 only when both on-time and in-full are 1 each, otherwise, 0.
 
 ## Skills:
-- 
+- SQL: schema design, data extraction, transformation, modelling, and loading, PostgreSQL
+- Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
 ### 1. 
