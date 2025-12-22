@@ -17,6 +17,7 @@ This analysis aims to identify key gaps in service performance, highlight custom
 3. Cleaned the three date columns in the "fact_order_lines" table by converting from text to proper text formats.
 4. Added three binary features (on-time, in-full, on-time-in-full) to "fact_order_lines". On-time records 1 for all timely deliveries but 0 for delayed deliveries. In-full records 1 for deliveries made in full and 0 for incomplete delivery per order. On-time-in-full records 0 for a delivery that is both on time and in full but records 0 when any of the two (on-time, in-full) is 0.
 5. Created a VIEW from the cleaned "fact_order_lines" table and saved as "fact_order_lines_view".
+6. Furthermore, 
 
 ## Skills:
 - 
