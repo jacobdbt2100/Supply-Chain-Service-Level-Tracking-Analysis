@@ -13,7 +13,10 @@ This analysis aims to identify key gaps in service performance, highlight custom
 
 ## Methodology:
 1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) in PostgreSQL.
-2. 
+2. Imported CSV files and populated all five tables.
+3. Cleaned the three date columns in the "fact_order_lines" table by converting from text to proper text formats.
+4. Added three more features (on-time, in-full, on-time-in-full) to "fact_order_lines".
+5. Created a VIEW from the cleaned "fact_order_lines" table and saved as "fact_order_lines_view".
 
 ## Skills:
 - 
