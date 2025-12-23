@@ -14,7 +14,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 ## Methodology:
 1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) using PostgreSQL.
 2. Imported CSV files and populated all five tables.
-3. Cleaned the three date columns in the "fact_order_lines" table by converting from text to proper text formats.
+3. Converted the three date columns to text in the "fact_order_lines" table.
 4. Added three binary features (on-time, in-full, on-time-in-full) to "fact_order_lines". On-time records 1 for all timely deliveries but 0 for delayed deliveries. In-full records 1 for deliveries made in full and 0 for incomplete delivery per order. On-time-in-full records 0 for a delivery that is both on time and in full but records 0 when any of the two (on-time, in-full) is 0.
 5. Created a VIEW from the cleaned "fact_order_lines" table and saved as "fact_order_lines_view".
 6. Furthermore, another VIEW, "fact_orders_aggregate_view" is created from "fact_order_lines_view" to aggregate orders base on "order_id" and "customer_id" with the "order_placement_date" as an aedded feature to relate to the date (calendar) table. This view groups many order lines into a single entity. If one of the order lines is not fulfilled, the result is 0, while 1 means all line items are delivered. On-time is 1 only when all line items are delivered on time, otherwise, 0. In-full is 1 only when all line items are delivered in full, otherwise, 0. On-time-in-full is 1 only when both on-time and in-full are 1 each, otherwise, 0.
