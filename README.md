@@ -31,7 +31,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 
 ### 3. On-Time rates consistently remain around 59% without major fluctuations over six months. This suggest that is the actual performance of the company at best and for improvements in timely deliveries, the company might need to hire additional staff. In-Full and OTIF likewise, agree with this assumption.  
   
-### 4. 
+### 4. Dairy product category contributes the highest to shortage in delivery. CONFIRM IF a particular product or category cause more delivery delays....
 
 ### 5. 
 
