@@ -25,7 +25,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
-### 1. 
+### 1. The company failed to meet all service level targets....  context
 
 ### 2. 
 
