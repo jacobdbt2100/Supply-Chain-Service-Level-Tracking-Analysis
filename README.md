@@ -27,7 +27,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 ## Insights & Recommendation:
 ### 1. The company failed to meet all service level targets....  context
 
-### 2. 
+### 2. "Lotus Mart" and "Acclaimed Stores" experienced the worst delays in delivery even though they are among the top five customers by "Order Quantity", while "Vijay Stores" with the highest Order Quanity suffered the worst shortage amongst the top five orders.
 
 ### 3. 
   
