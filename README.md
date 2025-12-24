@@ -29,7 +29,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 
 ### 2. "Lotus Mart" and "Acclaimed Stores" experienced the worst delays in delivery even though they are among the top five customers by "Order Quantity", while "Vijay Stores" with the highest Order Quatity suffered the worst shortage amongst the top five orders.
 
-### 3. 
+### 3. On-Time rates consistently remain around 59% without major fluctuations over six months. This suggest that is the actual performance of the company at best and for improvements in timely deliveries, the company might need to hire additional staff. In-Full and OTIF likewise, agree with this assumption.  
   
 ### 4. 
 
