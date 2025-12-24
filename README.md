@@ -21,7 +21,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 7. Four TABLES and two VIEWS were imported into Power BI for visualisation.
 
 ## Skills:
-- SQL: schema design, data extraction, transformation, modelling, and loading, PostgreSQL
+- SQL: schema design, data transformation & modelling, data querying, PostgreSQL
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
