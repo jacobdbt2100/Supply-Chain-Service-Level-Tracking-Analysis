@@ -33,7 +33,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
   
 ### 4. Dairy product category contributes the highest to shortage in delivery. CONFIRM IF a particular product or category cause more delivery delays....
 
-### 5. 
+### 5. Dairy products constitute the top nine orders. This could explain the shortages in delivery, requiring improved strategy to meet target quantity.
 
 ___
 
