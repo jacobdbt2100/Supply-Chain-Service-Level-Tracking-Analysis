@@ -26,7 +26,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
-### 1. The company failed to meet all service level targets in the last six months of delivery. An average delay of 0.5 days per order was recorded, and a shortage of over 66,000 order items per month.
+### 1. Over the past six months, the company consistently failed to meet Service Level Agreements (SLAs) targets, recording an average delivery delay of +0.5 days per order and a monthly order-line shortfall exceeding 66,000 units, indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
 
 ### 2. "Lotus Mart" and "Acclaimed Stores" experienced the worst delays in delivery even though they are among the top five customers by "Order Quantity", while "Vijay Stores" with the highest Order Quatity suffered the worst shortage amongst the top five orders.
 
