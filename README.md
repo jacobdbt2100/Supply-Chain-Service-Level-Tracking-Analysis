@@ -26,10 +26,12 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
-1. Over the past six months, the company consistently failed to meet Service Level Agreement (SLA) targets, recording an average **delivery delay of +0.5 days per order** and an average **order-line shortfall of 8 units per order line,** indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
+1. Over the past six months, the company consistently failed to meet Service Level Agreement (SLA) targets, recording an average **delivery delay of +0.5 days per order** and an average **order-line shortfall of 8 units per order line**, indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
 > Improve demand forecasting and inventory planning by **adjusting safety stock levels for high-volume SKUs** based on recent demand trends.
 
-2. Three customers (Lotus Mart, Acclaimed Stores, Cool Blue) experienced the worst delivery delays recording about 1.5 days average delay. Two of these customers are among the top five customers by order units with over a million units ordered by each.
+2. Lotus Mart, Acclaimed Stores, and Cool Blue recorded the highest delivery delays, with an average lead-time variance of approximately **+1.5 days**. Notably, **two of these customers rank among the top five by order volume**, each exceeding **one million units ordered**, amplifying the operational and service impact of these delays.
+> - Prioritise high-volume customers for targeted service recovery by reviewing allocation, fulfilment, and last-mile delivery processes.
+> - Implement account-level SLA monitoring to track performance for each key customer and quickly address delays or shortages.
 
 ### 3. On-Time rates consistently remain around 59% without major fluctuations over six months. This suggest that is the actual performance of the company at best and for improvements in timely deliveries, the company might need to hire additional staff. In-Full and OTIF likewise, agree with this assumption.  
   
