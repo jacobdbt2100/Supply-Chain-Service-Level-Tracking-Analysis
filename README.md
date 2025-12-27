@@ -33,7 +33,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 > - Prioritise high-volume customers for targeted service recovery by reviewing allocation, fulfilment, and last-mile delivery processes.
 > - Implement account-level SLA monitoring to track performance for each key customer and quickly address delays or shortages.
 
-### 3. On-Time rates consistently remain around 59% without major fluctuations over six months. This suggest that is the actual performance of the company at best and for improvements in timely deliveries, the company might need to hire additional staff. In-Full and OTIF likewise, agree with this assumption.  
+### 3. On-Time delivery rates consistently remain around 59% without major fluctuations over six months. This suggest that is the actual performance of the company at best and for improvements in timely deliveries, the company might need to hire additional staff. In-Full and OTIF likewise, agree with this assumption.  
   
 ### 4. Dairy product category contributes the highest to shortage in delivery. CONFIRM IF a particular product or category cause more delivery delays....
 
