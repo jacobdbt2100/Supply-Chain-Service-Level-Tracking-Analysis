@@ -27,7 +27,8 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 
 ## Insights & Recommendation:
 1. Over the past six months, the company consistently failed to meet Service Level Agreement (SLA) targets, recording an average **delivery delay of +0.5 days per order** and a **monthly order-line shortfall exceeding 66,000 units**, indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
-> Improve demand forecasting and inventory planning by adjusting safety stock levels for high-volume SKUs based on recent demand trends.
+> - Improve demand forecasting and inventory planning by adjusting safety stock levels for high-volume SKUs based on recent demand trends.
+> - hhhdgdg
 
 
 ### 2. "Lotus Mart" and "Acclaimed Stores" experienced the worst delays in delivery even though they are among the top five customers by "Order Quantity", while "Vijay Stores" with the highest Order Quatity suffered the worst shortage amongst the top five orders.
