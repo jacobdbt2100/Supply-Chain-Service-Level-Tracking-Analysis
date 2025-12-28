@@ -52,7 +52,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 > - Reassess operational capacity across warehousing and last-mile delivery, including **staffing levels**, by adding temporary or permanent staff in critical areas such as picking, packing, and dispatch, to reduce delays.
 > - Set phased OTIF improvement targets and monitor performance to ensure capacity adjustments translate into measurable service-level gains.
   
-4. The **Dairy product category**, excluding AM Ghee, recorded the highest delivery shortfall, averaging **10–14 units per order line**, well above the overall average of **8**. Notably, dairy products are also the **highest-volume category**, with over **10.56 million units ordered**, accounting for **___% of total order quantity**, thereby magnifying the operational impact of these shortages.
+4. The **Dairy product category**, excluding AM Ghee, recorded the **top 9 orders** by volume and highest delivery shortfall, averaging **10–14 units per order line**, well above the overall average of **8**. Notably, dairy products are also the **highest-volume category**, with over **10.56 million units ordered**, accounting for **___% of total order quantity**, thereby magnifying the operational impact of these shortages.
 > **Increase inventory coverage for high-volume dairy products** by reviewing replenishment frequency and minimum stock thresholds.
 
 ### 5. Dairy products constitute the top nine orders. This could explain the shortages in delivery, requiring improved strategy to meet target quantity.
