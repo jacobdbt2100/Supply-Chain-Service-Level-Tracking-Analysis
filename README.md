@@ -55,7 +55,7 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 4. The **Dairy product category**, excluding AM Ghee, recorded the **top 9 orders** by volume and **highest delivery shortfall**, averaging **10–14 units per order line**, well above the overall average of **8**. Notably, dairy products are also the **highest-volume category**, with over **10.56 million units ordered**, accounting for **___% of total order quantity**, thereby magnifying the operational impact of these shortages.
 > **Increase inventory coverage for high-volume dairy products** by reviewing replenishment frequency and minimum stock thresholds.
 
-5. **13,000 orders**, accounting for **___% of total orders** were **delivered late**.
+5. **13,000 orders**, accounting for **over ---40% of total orders** were **delivered late**.
 
 ___
 
