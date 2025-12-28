@@ -12,6 +12,7 @@ For supply chain–driven organisations, service level performance directly affe
 This analysis aimed to identify key gaps in service performance, highlight customers or order types most impacted, and provide actionable insights to improve delivery reliability and overall service levels.
 
 ## Methodology:
+**PostgreSQL:**
 1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) using PostgreSQL.
 2. Imported CSV files and populated all five tables.
 3. Converted the three date columns to text in the "fact_order_lines" table.
@@ -20,9 +21,14 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 6. Created a VIEW from the cleaned "fact_order_lines" table and saved as "fact_order_lines_view".
 7. Furthermore, another VIEW, "fact_orders_aggregate_view" was created from "fact_order_lines_view" to aggregate orders base on "order_id" and "customer_id" with the "order_placement_date" as an aedded feature to relate to the date (calendar) table. This view groups many order lines into a single entity. If one of the order lines is not fulfilled, the result is 0, while 1 means all line items are delivered. On-time is 1 only when all line items are delivered on time, otherwise, 0. In-full is 1 only when all line items are delivered in full, otherwise, 0. On-time-in-full is 1 only when both on-time and in-full are 1 each, otherwise, 0.
 8. Four TABLES and two VIEWS were imported into Power BI for visualisation.
-9. Coolblue to Cool Blue in the dim_customers table to be consistent with other customers names using Power Query.
-10. Furthermore, added month number, month name and week number to the dim_date table.
-11. Finally changed beverages to Beverages in the dim_products table in Power Query. ----------POWER QUERY-------
+
+**Power Query:**
+9. Coolblue to Cool Blue in the dim_customers table to be consistent with other customers names.
+10. Added month number, month name and week number to the dim_date table.
+11. "beverages" to "Beverages" in the dim_products table.
+
+**Power BI:**
+12. Visuals: list with simple descriptions.
 
 ## Skills:
 - SQL: schema design, data transformation & modelling, data querying, PostgreSQL
