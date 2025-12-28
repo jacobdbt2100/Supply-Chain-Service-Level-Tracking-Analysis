@@ -12,7 +12,9 @@ For supply chain–driven organisations, service level performance directly affe
 This analysis aimed to identify key gaps in service performance, highlight customers or order types most impacted, and provide actionable insights to improve delivery reliability and overall service levels.
 
 ## Methodology:
+
 **PostgreSQL:**
+
 1. Created database, "SupplyChain_DB" alongside five tables (dim_customers, dim_date, dim_products, dim_targets_orders, fact_order_lines) using PostgreSQL.
 2. Imported CSV files and populated all five tables.
 3. Converted the three date columns to text in the "fact_order_lines" table.
@@ -23,11 +25,13 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 8. Four TABLES and two VIEWS were imported into Power BI for visualisation.
 
 **Power Query:**
+
 9. Coolblue to Cool Blue in the dim_customers table to be consistent with other customers names.
 10. Added month number, month name and week number to the dim_date table.
 11. "beverages" to "Beverages" in the dim_products table.
 
 **Power BI:**
+
 12. Visuals: list with simple descriptions.
 
 ## Skills:
