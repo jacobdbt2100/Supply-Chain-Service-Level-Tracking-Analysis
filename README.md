@@ -32,7 +32,8 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 
 **Power BI:**
 
-12. Visuals: list with simple descriptions.
+12. DAX: list key metrics
+13. Visuals: list with simple descriptions.
 
 ## Skills:
 - SQL: schema design, data transformation & modelling, data querying, PostgreSQL
