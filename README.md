@@ -62,6 +62,8 @@ ___
 
 ### `Additional Materials`
 
+#### `SQL Queries - database & tables, data modelling & transformation, data exploration:`
+
 #### `Supply Chain Service Level Tracking Report:`
 
 #### `Model View:`
