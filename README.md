@@ -41,25 +41,30 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 - Power BI: DAX measures, data visualization
 
 ## Insights & Recommendation:
+___
+
 1. Over the past six months, the company consistently failed to meet Service Level Agreement (SLA) targets, recording an average **delivery delay of +0.5 days per order** and an average **order-line shortfall of 8 units per order line**, indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
 <img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/1_SLA targets failure.jpg" width="800">
 
-> - Improve demand forecasting and inventory planning by **adjusting safety stock levels for high-volume SKUs** based on recent demand trends.
+- Improve demand forecasting and inventory planning by **adjusting safety stock levels for high-volume SKUs** based on recent demand trends.
+___
 
 2. Lotus Mart, Acclaimed Stores, and Cool Blue recorded the highest delivery delays, with an average lead-time variance of approximately **+1.5 days**. Notably, **two of these customers rank among the top five by order volume**, each exceeding **one million units ordered**, amplifying the operational and service impact of these delays.
-> - Prioritise high-volume customers for targeted service recovery by reviewing allocation, fulfilment, and last-mile delivery processes.
-> - Implement account-level SLA monitoring to track performance for each key customer and quickly address delays or shortages.
+- Prioritise high-volume customers for targeted service recovery by reviewing allocation, fulfilment, and last-mile delivery processes.
+- Implement account-level SLA monitoring to track performance for each key customer and quickly address delays or shortages.
+___
 
 3. On-Time (OT) and In-Full (IF) delivery rates have remained consistently low at approximately **59%** and **52%** respectively over the past six months, with minimal variation. This indicates a structurally constrained operating performance rather than a temporary disruption.
-> - Reassess operational capacity across warehousing and last-mile delivery, including **staffing levels**, by adding temporary or permanent staff in critical areas such as picking, packing, and dispatch, to reduce delays.
-> - Set phased OTIF improvement targets and monitor performance to ensure capacity adjustments translate into measurable service-level gains.
+- Reassess operational capacity across warehousing and last-mile delivery, including **staffing levels**, by adding temporary or permanent staff in critical areas such as picking, packing, and dispatch, to reduce delays.
+- Set phased OTIF improvement targets and monitor performance to ensure capacity adjustments translate into measurable service-level gains.
+  ___
   
 4. The **Dairy product category**, excluding AM Ghee, recorded the **top 9 orders** by volume and **highest delivery shortfall**, averaging **10–14 units per order line**, well above the overall average of **8**. Notably, dairy products are also the **highest-volume category**, with over **10.56 million units ordered**, accounting for **79% of total order quantity**, thereby magnifying the operational impact of these shortages.
-> - **Increase inventory coverage for high-volume dairy products** by reviewing replenishment frequency and minimum stock thresholds.
+- **Increase inventory coverage for high-volume dairy products** by reviewing replenishment frequency and minimum stock thresholds.
+___
 
 5. Although a significant share of orders were delivered early or on time, **over 13,000 (40%) of total orders were delivered late**, highlighting persistent delivery reliability issues and a high risk of SLA breaches.
-> - Implement targeted delivery controls to reduce late orders and improve on-time delivery performance
-
+- Implement targeted delivery controls to reduce late orders and improve on-time delivery performance
 ___
 
 ### `Additional Materials`
