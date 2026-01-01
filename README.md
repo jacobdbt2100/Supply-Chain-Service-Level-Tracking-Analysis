@@ -50,27 +50,27 @@ ___
 ___
 
 2. Lotus Mart, Acclaimed Stores, and Cool Blue recorded the highest delivery delays, with an average lead-time variance of approximately **+1.5 days**. Notably, **two of these customers rank among the top five by order volume**, each exceeding **one million units ordered**, amplifying the operational and service impact of these delays.
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/2_customer delivery delays.jpg" width="400">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/2_customer delivery delays.jpg" width="300">
 
 - Prioritise high-volume customers for targeted service recovery by reviewing allocation, fulfilment, and last-mile delivery processes.
 - Implement account-level SLA monitoring to track performance for each key customer and quickly address delays or shortages.
 ___
 
 3. On-Time (OT) and In-Full (IF) delivery rates have remained consistently low at approximately **59%** and **52%** respectively over the past six months, with minimal variation. This indicates a structurally constrained operating performance rather than a temporary disruption.
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/3_low performance consistency.jpg" width="900">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/3_low performance consistency.jpg" width="1000">
 
 - Reassess operational capacity across warehousing and last-mile delivery, including **staffing levels**, by adding temporary or permanent staff in critical areas such as picking, packing, and dispatch, to reduce delays.
 - Set phased OTIF improvement targets and monitor performance to ensure capacity adjustments translate into measurable service-level gains.
   ___
   
 4. The **Dairy product category**, excluding AM Ghee, recorded the **top 9 orders** by volume and **highest delivery shortfall**, averaging **10–14 units per order line**, well above the overall average of **8**. Notably, dairy products are also the **highest-volume category**, with over **10.56 million units ordered**, accounting for **79% of total order quantity**, thereby magnifying the operational impact of these shortages.
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/4_products delivery shortfall.jpg" width="400">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/4_products delivery shortfall.jpg" width="500">
 
 - **Increase inventory coverage for high-volume dairy products** by reviewing replenishment frequency and minimum stock thresholds.
 ___
 
 5. Although a significant share of orders were delivered early or on time, **over 13,000 (40%) of total orders were delivered late**, highlighting persistent delivery reliability issues and a high risk of SLA breaches.
-<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/5_delay days.jpg" width="400">
+<img src="https://raw.githubusercontent.com/jacobdbt2100/Supply-Chain-Service-Level-Tracking-Analysis/main/5_delay days.jpg" width="500">
 
 - Implement targeted delivery controls to reduce late orders and improve on-time delivery performance
 ___
