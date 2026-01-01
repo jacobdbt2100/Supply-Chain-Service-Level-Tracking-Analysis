@@ -42,6 +42,8 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 
 ## Insights & Recommendation:
 1. Over the past six months, the company consistently failed to meet Service Level Agreement (SLA) targets, recording an average **delivery delay of +0.5 days per order** and an average **order-line shortfall of 8 units per order line**, indicating persistent lead-time variability and significant gaps in inventory availability and order fill rate.
+<img src="https://raw.githubusercontent.com/jakejosh6751/Supply-Chain-Service-Level-Tracking-Analysis/main/1_SLA targets failure.jpg" width="800">
+
 > - Improve demand forecasting and inventory planning by **adjusting safety stock levels for high-volume SKUs** based on recent demand trends.
 
 2. Lotus Mart, Acclaimed Stores, and Cool Blue recorded the highest delivery delays, with an average lead-time variance of approximately **+1.5 days**. Notably, **two of these customers rank among the top five by order volume**, each exceeding **one million units ordered**, amplifying the operational and service impact of these delays.
