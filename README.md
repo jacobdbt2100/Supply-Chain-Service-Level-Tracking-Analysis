@@ -36,9 +36,11 @@ This analysis aimed to identify key gaps in service performance, highlight custo
 13. Visuals: list with simple descriptions.
 
 ## Skills:
-- SQL: schema design, data transformation & modelling, data querying, PostgreSQL
-- Power Query: data transformation
-- Power BI: DAX measures, data visualization
+- **SQL:** data modelling
+- **Power Query:** data transformation
+- **DAX:** metrics calculations
+- **Power BI:** data visualization
+- **PowerPoint:** data storytelling
 
 ## Insights & Recommendation:
 ___
