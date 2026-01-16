@@ -2,9 +2,9 @@
 ___
 
 ## Executive Summary:
-On-Time and In-Full service levels were consistently less than targets with at least 23% shortfall over a period of six months. "Delivered" quantity fall short of "Orders" by 400,000. Three customers out of the top 5 having over one million order quantity were conspicuously underserved with On_Time delivery as down to 28%. Other customers had less than 800,000 order quantity.
+Over the past six months, the company has **consistently missed SLA targets**, with an average **delivery delay of +0.5 days** and an average **shortfall of 8 units per order line**, reflecting ongoing lead-time variability and inventory gaps. On-Time and In-Full rates remain low at 59% and 52%, and **40% of all orders are delivered late**, confirming a structural service performance issue. Delays are most severe for high-volume customers such as Lotus Mart, Acclaimed Stores, and Cool Blue (≈ +1.5 days), while the Dairy category, which represents 79% of total volume, records the highest shortages (10–14 units per line).
 
-Base on these findings, I recommend targeted product manufacturing schedules and real-time inventory tracking to boost operational efficiency.
+To reverse this trend, the business should strengthen demand forecasting and safety-stock settings for high-volume SKUs, prioritise key accounts for service recovery, expand capacity in warehousing and dispatch, and implement account-level SLA monitoring to drive sustained OTIF improvement.
 
 ## Business Problem:
 For supply chain–driven organisations, service level performance directly affects customer satisfaction, retention, and contractual compliance. In this organisation, management observed recurring complaints from customers and inconsistent service level outcomes but lacked clear visibility into where and why performance was falling short. The objective was to analyse supply chain service level data by tracking On-Time (OT), In-Full (IF), and On-Time-In-Full (OTIF) deliveries against agreed targets, alongside Line Fill Rate and Volume Fill Rate across multiple customers.
