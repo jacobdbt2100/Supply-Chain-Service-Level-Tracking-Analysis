@@ -77,15 +77,6 @@ ___
 - Implement targeted delivery controls to reduce late orders and improve on-time delivery performance
 ___
 
-### `Additional Materials`
+#### Miscellaneous
 
-#### `SQL Queries - database & tables, data modelling & transformation, data exploration:`
-
-#### `Supply Chain Service Level Tracking Report:`
-
-#### `Model View:`
-
-#### 
-
-
-[Data set](https://codebasics.io/challenges/codebasics-resume-project-challenge/5)
+##### 1.1 [Data set](https://codebasics.io/challenges/codebasics-resume-project-challenge/5)
